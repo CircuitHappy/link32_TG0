@@ -1,6 +1,6 @@
 # Example project for Ableton Link on ESP32
 
-## Timer Interrupt design for clock output at around 100 microseconds of accuracy.
+## Timer Interrupt design for clock output at around tens of microseconds in accuracy.
 
 Minimal example for using Ableton Link with esp-idf on ESP32.\
 Tested with esp-idf release/v4.0.
